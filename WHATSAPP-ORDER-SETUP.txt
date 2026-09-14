@@ -1,0 +1,13 @@
+SR JEWELLERY — WHATSAPP-ONLY ORDER SYSTEM
+
+WhatsApp number: 0318 9661981
+International format used by website: 923189661981
+
+Order flow:
+1. Customer fills checkout form.
+2. Customer clicks Complete order.
+3. WhatsApp opens with products, quantity, total, payment method and delivery details already written.
+4. Customer taps Send.
+5. The order arrives in your WhatsApp chat.
+
+Important: A normal WhatsApp link cannot send the message without the customer tapping Send. This website does not use Google Sheets or any server backend.
